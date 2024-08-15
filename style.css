@@ -142,7 +142,7 @@ main {
 }
 
 .image {
-  max-width: 100%; /* Garante que a imagem não ultrapasse a largura do container */
+  width: 100%; /* Garante que a imagem não ultrapasse a largura do container */
   height: auto; /* Mantém a proporção da imagem */
   vertical-align: bottom;
 }
