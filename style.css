@@ -142,8 +142,8 @@ main {
 }
 
 .image {
-  width: 100%; /* Garante que a imagem não ultrapasse a largura do container */
-  height: auto; /* Mantém a proporção da imagem */
+  width: 100%;
+  height: auto;
   vertical-align: bottom;
 }
 
