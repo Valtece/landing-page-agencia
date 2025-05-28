@@ -25,6 +25,7 @@ O foco principal foi:
 
 ## 📷 Imagens do Desafio
 
-> Preview: (./images/preview/preview.jpg)
+> Preview: ![Preview do projeto](./image/preview/preview.jpg)
+
 
 
