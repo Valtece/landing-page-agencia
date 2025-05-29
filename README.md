@@ -26,7 +26,7 @@ O foco principal foi:
 ## 📷 Imagens do Desafio
 
 > Preview: ![Preview do projeto](./images/preview/preview.jpg)  
-> Link do Projeto resolvido: https://valtece.github.io/landing-page-agencia/
+> Link do Desafio resolvido: https://valtece.github.io/landing-page-agencia/
 
 
 
